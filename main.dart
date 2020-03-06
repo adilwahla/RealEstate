@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       DeviceOrientation.portraitDown,
     ]);
     return MaterialApp(
-      title: 'BOOKS UI',
+      title: 'Real Estate UI',
       debugShowCheckedModeBanner: false,
       home: MyHomePage(),
     );
